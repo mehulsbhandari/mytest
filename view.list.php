@@ -1,7 +1,7 @@
 <?php
 
 require_once('modules/Leads/LeadsListViewSmarty.php');
-//added by mehul
+//added by mehul sb
 class LeadsViewList extends ViewList
 {
     /**
