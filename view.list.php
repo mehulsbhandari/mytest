@@ -1,7 +1,7 @@
 <?php
 
 require_once('modules/Leads/LeadsListViewSmarty.php');
-
+//added by mehul
 class LeadsViewList extends ViewList
 {
     /**
